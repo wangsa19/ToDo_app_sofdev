@@ -1,6 +1,8 @@
 # sofdev_app
 
-A new Flutter project.
+Documentation
+
+![SS](assets/images/demo_app.jpg)
 
 ## Getting Started
 
